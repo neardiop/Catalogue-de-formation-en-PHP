@@ -1,0 +1,48 @@
+.but{
+    border: none;
+    background-color: black;
+    opacity: 0.8;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+.but1{
+    border: none;
+    background-color: green;
+    opacity: 1;
+    padding: 10px;
+    border-radius: 10px;
+}
+.but2{
+    border: none;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+}
+.album{
+    background: url(../images/2088.jpg) no-repeat center;
+        background-size: 150%;
+}
+
+        td{
+            margin-top: 10px;
+            padding: 10Px;
+            color: white;
+            background-color: rgba(0,0,0,0.4)
+        }
+        th{
+            padding: 10px;
+            font-family: "Times New Roman", Times, serif;
+            color: white;
+            background-color: black;
+            opacity: 0.8;
+        }
+a{
+    text-decoration: none;
+    color: white;
+    font-family: "Times New Roman", Times, sans-serif;
+}
+
+table tr th .b{
+    width: 20%;
+}

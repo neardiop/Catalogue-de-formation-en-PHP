@@ -1,0 +1,32 @@
+div{
+        text-align: center;
+      }
+      div h1{
+        text-align: center;
+      }
+      select{
+        width: 70%;
+        height: 40px;
+        border: none;
+        border-bottom: 2px solid black;
+        cursor: pointer;
+      }
+      input[type="submit"]{
+        width: 30%;
+        height: 40px;
+        cursor: pointer;
+        background-color: #232B2A;
+        border: none;
+        color: white;
+      }
+      input[type="submit"]:hover{
+        width: 30%;
+        height: 40px;
+        cursor: pointer;
+        background-color: white;
+        border: 1px solid #232B2A;
+        color: #232B2A;
+      }
+      #navbarSupportedContent a:hover{
+        color: gray;
+      }

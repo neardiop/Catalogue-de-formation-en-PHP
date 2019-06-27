@@ -1,0 +1,20 @@
+body{
+  margin:0;
+  padding:0;
+  background: url("../images/2088.jpg") no-repeat center fixed; 
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+div{
+	margin: 200px;
+	background-color:rgba(0,0,0,0.4);
+	padding: 20px;
+	text-align: center;
+	border-radius: 20px;
+	color: white;
+}
+div a {
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}
